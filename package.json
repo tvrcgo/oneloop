@@ -1,0 +1,27 @@
+{
+  "name": "oneloop",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "example": "node example/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tvrcgo/oneloop.git"
+  },
+  "author": "tvrcgo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tvrcgo/oneloop/issues"
+  },
+  "engines": {
+    "node": "8.9.2"
+  },
+  "homepage": "https://github.com/tvrcgo/oneloop#readme",
+  "dependencies": {
+    "extend2": "^1.0.0",
+    "ora": "^1.4.0"
+  }
+}
