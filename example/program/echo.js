@@ -1,5 +1,6 @@
 
 module.exports = async function() {
-  await this.service.util.sleep(120)
+  console.log('\r', this.config, new Date().toLocaleString())
+  await this.service.util.sleep(2000)
   return true
 }
