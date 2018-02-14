@@ -22,6 +22,7 @@
   "homepage": "https://github.com/tvrcgo/oneloop#readme",
   "dependencies": {
     "extend2": "^1.0.0",
+    "fast-glob": "^2.0.3",
     "ora": "^1.4.0"
   }
 }
