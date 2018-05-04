@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/tvrcgo/oneloop#readme",
   "dependencies": {
+    "dayjs": "^1.5.19",
     "extend2": "^1.0.0",
     "fast-glob": "^2.0.3",
     "ora": "^1.4.0"
